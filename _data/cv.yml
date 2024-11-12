@@ -2,96 +2,110 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Paul GANGBADJA
     - name: Date of Birth
-      value: 14th March 1879
+      value: 26 years old
     - name: Languages
-      value: English, German
+      value: French (Native), English (Intermediate)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master’s in Artificial Intelligence
+      institution: University of Avignon, Avignon, France
+      year: 2023 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advanced coursework in NLP, large language models, and deep learning.
+        - Thesis: Developing a conversational AI assistant for enterprise knowledge management.
+
+    - title: Bachelor’s in Artificial Intelligence
+      institution: Université Côte d'Azur, Nice, France
+      year: 2022 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Specialization in machine learning algorithms and data science tools.
+        - Final project: Sentiment analysis and aspect-based opinion mining.
+
+    - title: Bachelor’s in Mathematics and Computer Science
+      institution: ENS Natitingou, Natitingou, Bénin
+      year: 2014 - 2017
+
+    - title: Baccalauréat Série Scientifique
+      institution: [Your High School], Bénin
+      year: 2014
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: AI Engineer (Apprentice)
+      institution: Amadeus, Nice, France
+      year: 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed and deployed a conversational chatbot integrated with the company’s knowledge base.
+        - Utilized large language models (GPT-3.5, GPT-4) via Azure OpenAI services.
+        - Tools: Python, Langchain, Streamlit, DeepEval, Langfuse.
+
+    - title: Full-Stack Web Developer (Part-Time)
+      institution: Erugis, Valbonne, France
+      year: 2022 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Developed HR management microservices using Django REST Framework.
+        - Created UI integrations with ReactJS and TypeScript.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Full-Stack Web Developer (Contract)
+      institution: Erugis, Abomey-Calavi, Bénin
+      year: 2022
       description:
+        - Contributed to microservice architecture and UI development for HR solutions in Africa.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Web Development Intern
+      institution: OpenCTS, Abomey-Calavi, Bénin
+      year: 2021
+      description:
+        - Developed backend services with Django for a driving test preparation platform.
+        - Created front-end components with React and Node.js.
 
-- title: Open Source Projects
+    - title: Mathematics Teacher
+      institution: Various High Schools, Abomey-Calavi, Bénin
+      year: 2019 - 2021
+
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Groundwater Level Prediction
+      year: 2023
+      description:
+        - Built a deep learning model using PyTorch, LSTM, GRU, and Transformer models to predict groundwater levels.
+
+    - title: Aspect-Based Sentiment Analysis
+      year: 2023
+      description:
+        - Developed a sentiment analysis tool for aspect-based opinion mining using NLTK, Spacy, and Scikit-Learn.
+
+    - title: Sensor Data Analysis
+      year: 2022
+      description:
+        - Created a system for room occupancy detection using sensor data and KMeans clustering.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - year: 2022
+      items:
+        - Participation, Zindi Ghana Crop Disease Detection Challenge
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Artificial Intelligence and Machine Learning
       items:
-        - Description 1.
-        - Description 2.
+        - NLP, Large Language Models, Conversational AI
+        - Deep Learning, Transformers
+
+    - title: Data Science and Analytics
+      items:
+        - Healthcare AI, AI Ethics, Explainable AI, Education AI
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Basketball, Travel, Reading, Gym
