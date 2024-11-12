@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Valbonne (Cote d'Azur)/France. Get Back to the Basics if you want to master something.
 
 profile:
   align: right
