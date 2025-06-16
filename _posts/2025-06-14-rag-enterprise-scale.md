@@ -2,7 +2,7 @@
 layout: post
 title: "From Demo to Deployment: Building a Real RAG System at Scale in Industry"
 description: My experience in RAG in production in big company scale.
-date: 2025-06-15 07:00:00 +0000
+date: 2025-06-14 07:00:00 +0000
 categories: [RAG, AI, Langchain]
 tags: [RAG, AI, Langchain, Confluence, GPT, Azure, Langfuse]
 math: true  # Enable math equations rendering
